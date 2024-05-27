@@ -1,0 +1,13 @@
+aside {
+    background-color: $primary-light;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.profile{
+    display: flex;
+    border-radius: 50%;
+    padding: 15px 0;
+}
